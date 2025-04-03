@@ -1,5 +1,0 @@
-pandas
-plotly
-scikit-learn
-nbformat
-webbrowser
